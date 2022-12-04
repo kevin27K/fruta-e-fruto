@@ -1,0 +1,19 @@
+@import url(./banner-imagem.css);
+@import url(./banner-titulo.css);
+
+.banner {
+	position: relative;
+}
+
+@media screen and (min-width: 0) {
+	.banner__titulo{
+		font-weight: 3rem;
+	}
+}
+
+@media screen and (min-width: 768px) {
+
+	.banner__titulo{
+		font-size: 5.0625rem;
+	}
+}

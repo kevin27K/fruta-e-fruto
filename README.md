@@ -1,2 +1,2 @@
-# fruta-e-fruto
-execicios de html css
+# arquitetura-css
+curso de arquitetura da Alura. 
